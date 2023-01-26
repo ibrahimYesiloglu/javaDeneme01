@@ -6,6 +6,10 @@ public class Student {
         System.out.println("Hallo");
 
 
+        System.out.println("Hallo 2" +
+                "Hallo 3" +
+                "Hallo4");
+
 
     }
 }
